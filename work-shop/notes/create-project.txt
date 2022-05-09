@@ -1,0 +1,12 @@
+we can open new files with ctrl + o 
+open new folder with  ctrl + k + o
+create new text file with ctrl + n 
+save file ctrl + s 
+save file as ctrl + shift + save
+open new window ctrl + shift + n 
+these are almost all the goodies of the shortcuts that we need
+zoom in ctrl + 
+zoom out ctrl -
+toggle side bar ctrl + b
+creating html boiler template shift + ! + enter
+

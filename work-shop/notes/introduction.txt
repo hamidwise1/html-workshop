@@ -1,0 +1,6 @@
+html is a markup language and not a programming language 
+html is the structure of any webpage 
+html elements are consist of a opening tag then the content and then closing tag 
+<element> content </element>
+some of the html elements are self closing like image and br ( line break )
+<img src = "#" alt="" />

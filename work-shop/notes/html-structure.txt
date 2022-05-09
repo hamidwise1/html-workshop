@@ -1,0 +1,13 @@
+<!DOCTYPE html> === version of the html file which in this case is html 5
+<html> === root element
+
+
+<head> === consist of meta data and links and title which will not be displayed by the browser but will be rendered and palyes a vital rule in the websites
+</head>
+
+<body> === consist the content of the web page and will be displayed by the browser
+   content
+</body> 
+
+
+</html>

@@ -1,0 +1,2 @@
+create new html files with .html extension and the name does not matters 
+but the common convention is to name the first or home page the index.html

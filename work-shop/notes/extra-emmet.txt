@@ -1,0 +1,11 @@
+by default the visual studio code has the emment extention 
+this extension will suggest and will allow you to auto fill with choosing the option and pressing the enter key or pressing the tab key
+
+more information about the emmet in the documents 
+
+
+
+
+
+enable emment with ctrl + space 
+cancel the emment with escape
